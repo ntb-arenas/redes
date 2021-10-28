@@ -1,0 +1,12 @@
+.table1 tr td {
+    border: 1px solid black;
+}
+h1{
+    color: rgb(0, 0, 150);
+}
+.tableColor tr:nth-child(odd) {
+    background-color: blue;
+}
+.tableColor tr:nth-child(even) {
+    background-color: yellow;
+}

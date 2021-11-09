@@ -1,0 +1,9 @@
+.div-content{
+    display: flex;
+    justify-content: center;
+}
+form{
+    border-style: solid;
+    border-width: 2px;
+    padding: 10px;
+}
